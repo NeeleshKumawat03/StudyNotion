@@ -8,7 +8,7 @@ const {
   signUp,
   sendOtp,
   changePassword,
-} = require("../controllers/Auth")
+} = require("../controllers/auth")
 const {
   resetPasswordToken,
   resetPassword,
